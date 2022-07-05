@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: linear-gradient(257.35deg, rgba(45, 35, 72, 0.4) 3.59%, rgba(27, 20, 46, 0) 81.68%), url("../Source/introimg.svg") center no-repeat;
+  background: linear-gradient(257.35deg, rgba(45, 35, 72, 0.4) 3.59%, rgba(27, 20, 46, 0) 81.68%), url("Source/introimg.svg") center no-repeat;
   background-size: cover;
 }
 .intro .intro-inner {
@@ -500,17 +500,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 .prop-types .prop-cards-top .studios {
   margin-right: 1px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(/Source/prop1.svg) center no-repeat;
-  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop1.svg) center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(Source/prop1.svg) center no-repeat;
+  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop1.svg) center no-repeat;
 }
 .prop-types .prop-cards-top .apartments {
   margin-right: 1px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(/Source/prop2.svg) center no-repeat;
-  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop2.svg) center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(Source/prop2.svg) center no-repeat;
+  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop2.svg) center no-repeat;
 }
 .prop-types .prop-cards-top .penthouses {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(/Source/prop3.svg) center no-repeat;
-  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop3.svg) center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(Source/prop3.svg) center no-repeat;
+  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop3.svg) center no-repeat;
 }
 .prop-types .prop-cards-bot {
   display: -webkit-box;
@@ -529,13 +529,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 300px;
 }
 .prop-types .prop-cards-bot .townhouses {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(/Source/prop4.svg) center no-repeat;
-  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop4.svg) center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(Source/prop4.svg) center no-repeat;
+  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop4.svg) center no-repeat;
   margin-right: 1px;
 }
 .prop-types .prop-cards-bot .villas {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(/Source/prop5.svg) center no-repeat;
-  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop5.svg) center no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 10, 33, 0)), to(rgba(20, 12, 38, 0.75))), url(Source/prop5.svg) center no-repeat;
+  background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop5.svg) center no-repeat;
 }
 .data {
   position: absolute;
@@ -702,8 +702,8 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(17, 10, 31, 0.7)), to(rgba(17, 10, 31, 0.7))), url("/Source/CTA.svg") center no-repeat;
-  background: linear-gradient(0deg, rgba(17, 10, 31, 0.7), rgba(17, 10, 31, 0.7)), url("/Source/CTA.svg") center no-repeat;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(17, 10, 31, 0.7)), to(rgba(17, 10, 31, 0.7))), url("Source/CTA.svg") center no-repeat;
+  background: linear-gradient(0deg, rgba(17, 10, 31, 0.7), rgba(17, 10, 31, 0.7)), url("Source/CTA.svg") center no-repeat;
   background-size: cover;
 }
 .CTA-form .CTA-form-inner {

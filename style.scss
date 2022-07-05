@@ -129,7 +129,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
     height: 738px;
     top: 160px;
     display: flex;
-    background: linear-gradient(257.35deg, rgba(45, 35, 72, 0.4) 3.59%, rgba(27, 20, 46, 0) 81.68%),url("../Source/introimg.svg") center no-repeat;
+    background: linear-gradient(257.35deg, rgba(45, 35, 72, 0.4) 3.59%, rgba(27, 20, 46, 0) 81.68%),url("Source/introimg.svg") center no-repeat;
     background-size: cover;
     .intro-inner{
         display: flex;
@@ -341,7 +341,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
             & a{
                 @extend %propbtn;
             }
-            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop1.svg) center no-repeat;
+            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop1.svg) center no-repeat;
         }
         .apartments{
             @extend %toppropcard;
@@ -349,14 +349,14 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
             & a{
                 @extend %propbtn;
             }
-            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop2.svg) center no-repeat;
+            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop2.svg) center no-repeat;
         }
         .penthouses{
             @extend %toppropcard;
             & a{
                 @extend %propbtn;
             }
-            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop3.svg) center no-repeat;
+            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop3.svg) center no-repeat;
         }
     }
     .prop-cards-bot{
@@ -375,7 +375,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
             & a{
                 @extend %propbtn;
             }
-            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop4.svg) center no-repeat;
+            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop4.svg) center no-repeat;
             margin-right: 1px;
             }
         .villas{
@@ -383,7 +383,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
             & a{
                 @extend %propbtn;
             }
-            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(/Source/prop5.svg) center no-repeat;
+            background: linear-gradient(180deg, rgba(17, 10, 33, 0) 0%, rgba(20, 12, 38, 0.75) 100%), url(Source/prop5.svg) center no-repeat;
         }
     }
 }
@@ -502,7 +502,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
     height: 398px;
     display: flex;
     align-items:center;
-    background: linear-gradient(0deg, rgba(17, 10, 31, 0.7), rgba(17, 10, 31, 0.7)), url("/Source/CTA.svg") center no-repeat;
+    background: linear-gradient(0deg, rgba(17, 10, 31, 0.7), rgba(17, 10, 31, 0.7)), url("Source/CTA.svg") center no-repeat;
     background-size: cover;
     .CTA-form-inner{
         margin: auto;
@@ -596,6 +596,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
                 color:#F6BF33;
                 text-decoration: underline;
             }
-        }
+        } 
     }
 }
